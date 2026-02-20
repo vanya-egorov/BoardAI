@@ -1,0 +1,14 @@
+.env
+
+/bin/
+/dist/
+/build/
+*.exe
+
+.idea/
+
+*.log
+
+*.tmp
+*.temp
+.DS_Store
